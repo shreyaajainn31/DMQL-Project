@@ -7,7 +7,7 @@ Download the ZIP file and do the following:
 CREATING TABLE 
 --------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------
-First create the tables by copying the [script from here] (https://github.com/mitalisable/DMQL-Project/blob/main/sql-scripts/create-table/new-script-for-table-creation.sql) and then running it on postgres.
+First create the tables by copying the script.
 Go to the folder sql-scripts -> create-table -> new-script-for-table-creation.sql 
 and then copy the data. 
 
@@ -25,20 +25,19 @@ c. Now, right click on table name and then click the import/export option. After
    
    - Click on import button
    
-   - In file, where you are asked to choose a file, choose the desired file by download the datasets from [here](https://github.com/mitalisable/DMQL-Project/tree/main/data-set)
-   
+   - In file, where you are asked to choose a file, choose the desired file by download the datasets from data-set folder
    - Then, click yes on header and choose delimiter as, 
 
 d. You should import the datasets in the following order:
       
-   1. [Genre](https://github.com/mitalisable/DMQL-Project/blob/main/data-set/genre%20-%20Sheet1.csv)
-   2. [Artist](https://github.com/mitalisable/DMQL-Project/blob/main/data-set/artist%20-%20Sheet1.csv)
-   3. [Music](https://github.com/mitalisable/DMQL-Project/blob/main/data-set/music%20-%20Sheet1.csv)
-   4. [Customer](https://github.com/mitalisable/DMQL-Project/blob/main/data-set/CustomerData.csv)
-   5. [Survey](https://github.com/mitalisable/DMQL-Project/blob/main/data-set/Survey.csv)
-   6. [Ratings](https://github.com/mitalisable/DMQL-Project/blob/main/data-set/Ratings.csv)
-   7. [Favorites](https://github.com/mitalisable/DMQL-Project/blob/main/data-set/favourites%20-%20Sheet1.csv)
-   8. [Billing](https://github.com/mitalisable/DMQL-Project/blob/main/data-set/Billing.csv)
+   1. Genre
+   2. Artist
+   3. Music
+   4. Customer
+   5. Survey
+   6. Ratings
+   7. Favorites
+   8. Billing
 
 You can find above data’s inside the folder "data-set"
 
