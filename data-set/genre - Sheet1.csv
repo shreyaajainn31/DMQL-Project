@@ -1,0 +1,924 @@
+genreID,genreName
+1,Art Punk
+2,Alternative Rock
+3,Britpunk
+4,College Rock
+5,Crossover Thrash
+6,Emotional Hardcore
+7,Experimental Rock
+8,desi hip hop
+9,haryanvi pop
+10,modern bollywood
+11,funk carioca
+12,Rock
+13,Jazz
+14,Pop
+15,Contempary
+16,Metalicca
+17,Hip hop
+18,Indie Rock
+19,Lo-fi
+20,Musique ConcrÃ¨te
+21,New Wave
+22,Progressive Rock
+23,Punk
+24,Shoegaze
+25,Steampunk
+26,Anime
+27,Blues
+28,Acoustic Blues
+29,Blues Rock
+30,African Blues
+31,Blues Shouter
+32,Canadian Blues
+33,Chicago Blues
+34,Classic Blues
+35,Classic Female Blues
+36,Contemporary Blues
+37,Contemporary R&B
+38,Country Blues
+39,Dark Blues
+40,Delta Blues
+41,Detroit Blues
+42,Doom Blues
+43,Electric Blues
+44,Folk Blues
+45,Gospel Blues
+46,Hill Country Blues
+47,Hokum Blues
+48,Jazz Blues
+49,Jump Blues
+50,Kansas City Blues
+51,Louisiana Blues
+52,Memphis Blues
+53,Modern Blues
+54,Orlean
+55,New Blues
+56,NY Blues
+57,Piano Blues
+58,Piedmont Blues
+59,Ragtime Blues
+60,Rhythm Blues
+61,Punk Blues
+62,Soul Blues
+63,St. Louis Blues
+64,Soul Blues
+65,Swamp Blues
+66,Texas Blues
+67,Urban Blues
+68,Vandeville
+69,West Coast Blues
+70,Zydeco
+71,Lullabies
+72,Sing-Along
+73,Stories
+74,Avant-Garde
+75,Baroque
+76,Ballet
+77,Cantata
+78,Chamber Music
+79,Chant
+80,Choral
+81,Classical Crossover
+82,Concerto
+83,Concerto Grosso
+84,Early Music
+85,High Classical
+86,Impressionist
+87,Mass Requiem
+88,Medieval
+89,Minimalism
+90,Modern Composition
+91,Modern Classical
+92,Opera
+93,Oratorio
+94,Orchestral
+95,Organum
+96,Renaissance
+97,Romantic
+98,Sonata
+99,Symphonic
+100,Symphony
+101,Wedding Music
+102,Novelty
+103,Parody Music
+104,Stand-up Comedy
+105,Vaudeville
+106,Alternative Country
+107,Americana
+108,Australian Country
+109,Bakersfield Sound
+110,Bluegrass
+111,Blues Country
+112,Cajun Fiddle Tunes
+113,Christian Country
+114,Classic Country
+115,Close Harmony
+116,Contemporary Bluegrass
+117,Contemporary Country
+118,Country Gospel
+119,Country Pop
+120,Country Rap
+121,Country Rock
+122,Country Soul
+123,Brostep
+124,Chillstep
+125,Deep House
+126,Dubstep
+127,Electro House
+128,Electroswing
+129,Exercise
+130,Future Garage
+131,Garage
+132,Glitch Hop
+133,Glitch Pop
+134,Grime
+135,Bouncy House
+136,Bouncy Techno
+137,Breakcore
+138,Digital Hardcore
+139,Doomcore
+140,Dubstyle
+141,Gabber
+142,Happy Hardcore
+143,Hardstyle
+144,Jumpstyle
+145,Makina
+146,Speedcore
+147,Terrorcore
+148,Uk Hardcore
+149,Hard Dance
+150,Hi-NRG / Eurodance
+151,Horrorcore (thx Matt)
+152,Acid House
+153,Chicago House
+154,Deep House
+155,Diva House
+156,Dutch House
+157,Electro House
+158,Freestyle House
+159,French House
+160,Funky House
+161,Ghetto House
+162,Hardbag
+163,Hip House
+164,Italo House
+165,Latin House
+166,Minimal House
+167,Progressive House
+168,Rave Music
+169,Swing House
+170,Tech House
+171,Tribal House
+172,Tropical House
+173,UK Hard House
+174,US Garage
+175,Vocal House
+176,Jackin House
+177,Jungle / Drum’n’bass
+178,Liquid Dub
+179,Regstep
+180,Speedcore
+181,Techno
+182,Acid Techno
+183,Detroit Techno
+184,Free Tekno
+185,Ghettotech
+186,Minimal
+187,Nortec
+188,Schranz
+189,Techno-Dnb
+190,Technopop
+191,Tecno Brega
+192,Toytown Techno
+193,Acid Trance
+194,Acid-House
+195,Classic Trance
+196,Dark Psy
+197,Deep House
+198,Dream Trance
+199,Goa Trance
+200,Dark Psytrance
+201,Full on
+202,Psybreaks
+203,Psyprog
+204,Suomisaundi
+205,Hard Trance
+206,Prog. Trance
+207,Psy-Trance
+208,Minimal Techno
+209,Tech House
+210,Tech Trance
+211,Uplifting Trance
+212,Orchestral Uplifting
+213,Vocal Trance
+214,Trap
+215,Background
+216,Bop
+217,Elevator
+218,Furniture
+219,Lounge
+220,Middle of the Road
+221,Swing
+222,2-Step (thx Ran’dom Haug)
+223,"8bit – aka 8-bit, Bitpop and Chiptune (see below)"
+224,Ambient
+225,Ambient Dub
+226,Ambient House
+227,Ambient Techno
+228,Dark Ambient
+229,Drone Music
+230,Illbient
+231,Isolationism
+232,Lowercase
+233,Asian Underground
+234,Bassline
+235,Chillwave
+236,Chiptune
+237,Bitpop
+238,Game Boy
+239,Nintendocore
+240,Video Game Music
+241,Yorkshire Bleeps and Bass
+242,Crunk
+243,Downtempo
+244,Acid Jazz
+245,Balearic Beat
+246,Chill Out
+247,Dub Music
+248,Dubtronica
+249,Ethnic Electronica
+250,Moombahton
+251,Nu Jazz
+252,Trip Hop
+253,Drum & Bass
+254,Darkcore
+255,Darkstep
+256,Drumfunk
+257,Drumstep
+258,Hardstep
+259,Intelligent Drum and Bass
+260,Jump-Up
+261,Liquid Funk
+262,Neurofunk
+263,Oldschool Jungle:
+264,Darkside Jungle
+265,Ragga Jungle
+266,Raggacore
+267,Sambass
+268,Techstep
+269,Electro
+270,Crunk
+271,Electro Backbeat
+272,Electro-Grime
+273,Electropop
+274,Electro-swing
+275,Electroacoustic
+276,Acousmatic Music
+277,Computer Music
+278,Electroacoustic Improvisation
+279,Field Recording
+280,Live Coding
+281,Live Electronics
+282,Soundscape Composition
+283,Tape Music
+284,Electronica
+285,Berlin School
+286,Chillwave
+287,Electronic Art Music
+288,Electronic Dance Music
+289,Folktronica
+290,Freestyle Music
+291,Glitch
+292,Idm
+293,Laptronica
+294,Skweee
+295,Sound Art
+296,Synthcore
+297,Electronic Rock
+298,Alternative Dance
+299,Baggy
+300,Madchester
+301,Dance-Punk
+302,Dance-Rock
+303,Dark Wave
+304,Electroclash
+305,Electronicore
+306,Electropunk
+307,Ethereal Wave
+308,Indietronica
+309,New Rave
+310,Space Rock
+311,Synthpop
+312,Synthpunk
+313,Eurodance
+314,Bubblegum Dance
+315,Italo Dance
+316,Turbofolk
+317,Hardstyle
+318,Hi-Nrg
+319,Eurobeat
+320,Hard Nrg
+321,New Beat
+322,IDM/Experimental
+323,Industrial
+324,Trip Hop
+325,Vaporwave
+326,Hyponagogic
+327,Vektroid
+328,Mallsoft
+329,Vaportrap
+330,Vaporhop
+331,Protovapor
+332,UK Garage
+333,2-Step
+334,4×4
+335,Bassline
+336,Grime
+337,Speed Garage
+338,Enka
+339,French Pop
+340,Folk Music (also under various other categories)
+341,American Folk Revival
+342,Anti-Folk
+343,British Folk Revival
+344,Contemporary Folk
+345,Filk Music
+346,Freak Folk
+347,Indie Folk
+348,Industrial Folk
+349,Neofolk
+350,Progressive Folk
+351,Psychedelic Folk
+352,Sung Poetry
+353,Techno-Folk
+354,German Folk
+355,German Pop
+356,Fitness & Workout
+357,Hip-Hop/Rap
+358,Alternative Rap
+359,Avant-Garde
+360,Bounce
+361,Chap Hop
+362,Christian Hip Hop
+363,Conscious Hip Hop
+364,Country-Rap
+365,Grunk
+366,Crunkcore
+367,Cumbia Rap
+368,Dirty South
+369,East Coast
+370,Brick City Club
+371,Hardcore Hip Hop
+372,Mafioso Rap
+373,New Jersey Hip Hop
+374,Freestyle Rap
+375,G-Funk
+376,Gangsta Rap
+377,Golden Age
+378,Grime
+379,Hardcore Rap
+380,Hip-Hop
+381,Hip Pop
+382,Horrorcore
+383,Hyphy
+384,Industrial Hip Hop
+385,Instrumental Hip Hop
+386,Jazz Rap
+387,Latin Rap
+388,Low Bap
+389,Lyrical Hip Hop
+390,Merenrap
+391,Midwest Hip Hop
+392,Chicago Hip Hop
+393,Detroit Hip Hop
+394,Horrorcore
+395,St. Louis Hip Hop
+396,Twin Cities Hip Hop
+397,Acoustic
+398,Motswako
+399,Nerdcore
+400,New Jack Swing
+401,New School Hip Hop
+402,Old School Rap
+403,Rap
+404,Trap
+405,Turntablism
+406,Underground Rap
+407,West Coast Rap
+408,Holiday
+409,Chanukah
+410,Christmas
+411,Christmas: Children’s
+412,Christmas: Classic
+413,Christmas: Classical
+414,Christmas: Comedy
+415,Christmas: Jazz
+416,Christmas: Modern
+417,Christmas: Pop
+418,Christmas: R&B
+419,Christmas: Religious
+420,Christmas: Rock
+421,Easter
+422,Halloween
+423,Holiday: Other
+424,Thanksgiving
+425,Indie Pop
+426,Industrial
+427,Aggrotech
+428,Coldwave
+429,Cybergrind
+430,Dark Electro
+431,Death Industrial
+432,Electro-Industrial
+433,Electronic Body Music
+434,Futurepop
+435,Industrial Metal
+436,Neue Deutsche Härte
+437,Industrial Rock
+438,Noise
+439,Japanoise
+440,Power Electronics
+441,Power Noise
+442,Witch House
+443,Inspirational – Christian & Gospel
+444,CCM
+445,Christian Metal
+446,Christian Pop
+447,Christian Rap
+448,Christian Rock
+449,Classic Christian
+450,Contemporary Gospel
+451,Gospel
+452,Christian & Gospel
+453,Praise & Worship
+454,Qawwali
+455,Southern Gospel
+456,Traditional Gospel
+457,Instrumental
+458,March (Marching Band)
+459,J-Pop (also under ‘Asian’)
+460,J-Rock
+461,J-Synth
+462,J-Ska
+463,J-Punk
+464,Jazz
+465,Acid Jazz
+466,Afro-Cuban Jazz
+467,Avant-Garde Jazz
+468,Bebop
+469,Big Band
+470,Blue Note
+471,British Dance Band (Jazz)
+472,Cape Jazz
+473,Chamber Jazz
+474,Contemporary Jazz
+475,Continental Jazz
+476,Cool Jazz
+477,Crossover Jazz
+478,Dark Jazz
+479,Dixieland
+480,Early Jazz
+481,Electro Swing (Jazz)
+482,Ethio-jazz
+483,Ethno-Jazz
+484,European Free Jazz
+485,Free Funk (Avant-Garde / Funk Jazz)
+486,Free Jazz
+487,Fusion
+488,Gypsy Jazz
+489,Hard Bop
+490,Indo Jazz
+491,Jazz Blues
+492,Jazz-Funk (see Free Funk)
+493,Jazz-Fusion
+494,Jazz Rap
+495,Jazz Rock
+496,Kansas City Jazz
+497,Latin Jazz
+498,M-Base Jazz
+499,Mainstream Jazz
+500,Modal Jazz
+501,Neo-Bop
+502,Neo-Swing
+503,Nu Jazz
+504,Orchestral Jazz
+505,Post-Bop
+506,Punk Jazz
+507,Ragtime
+508,Ska Jazz
+509,Skiffle (also Folk)
+510,Smooth Jazz
+511,Soul Jazz
+512,Swing Jazz
+513,Straight-Ahead Jazz
+514,Trad Jazz
+515,Third Stream
+516,Jazz-Funk
+517,Free Jazz
+518,West Coast Jazz
+519,K-Pop (also under ‘Asian’)
+520,Karaoke
+521,Kayokyoku
+522,Latin
+523,Alternativo & Rock Latino
+524,Argentine Tango
+525,Bachata
+526,Baithak Gana
+527,Baladas y Boleros
+528,Bolero
+529,Bossa Nova
+530,Brazilian
+531,Axé
+532,Bossa Nova
+533,Brazilian Rock
+534,Brega
+535,Choro
+536,Forró
+537,Frevo
+538,Funk Carioca
+539,Lambada
+540,Maracatu
+541,Música Popular Brasileira
+542,Música Sertaneja
+543,Pagode
+544,Samba
+545,Samba Rock
+546,Tecnobrega
+547,Tropicalia
+548,Zouk-Lambada
+549,Chicha
+550,Criolla
+551,Contemporary Latin
+552,Cumbia
+553,Flamenco / Spanish Flamenco
+554,Huayno
+555,"Joropo (popular style in Venezuela, and also in the llanos (plains) of Colombia)"
+556,Latin Jazz
+557,Mambo (Cuba)
+558,Mariachi
+559,Merengue Típico
+560,Nuevo Flamenco
+561,Pop Latino
+562,Portuguese Fado
+563,Punta
+564,Punta Rock
+565,Ranchera
+566,Raíces
+567,Raison
+568,Reggaeton y Hip-Hop
+569,Regional Mexicano
+570,Salsa y Tropical
+571,Soca
+572,Son
+573,Tejano
+574,Timba
+575,Twoubadou
+576,Vallenato
+577,Zouk
+578,Metal
+579,Heavy Metal
+580,Speed Metal
+581,Thrash Metal
+582,Power Metal
+583,Death Metal
+584,Black Metal
+585,Pagan Metal
+586,Viking Metal
+587,Folk Metal
+588,Symphonic Metal
+589,Gothic Metal
+590,Glam Metal
+591,Hair Metal
+592,Doom Metal
+593,Groove Metal
+594,Industrial Metal
+595,Modern Metal
+596,Neoclassical Metal
+597,New Wave Of British Heavy Metal
+598,Post Metal
+599,Progressive Metal
+600,Avantgarde Metal
+601,Sludge
+602,Djent
+603,Drone
+604,Kawaii Metal
+605,Pirate Metal
+606,Nu Metal
+607,Neue Deutsche Härte
+608,Math Metal
+609,Crossover
+610,Grindcore
+611,Hardcore
+612,Metalcore
+613,Deathcore
+614,Post Hardcore
+615,Mathcore
+616,New Age
+617,Environmental
+618,Healing
+619,Meditation
+620,Nature
+621,Relaxation
+622,Travel
+623,Opera
+624,Pop
+625,Adult Contemporary
+626,Arab Pop
+627,Baroque
+628,Britpop
+629,Bubblegum Pop
+630,Chamber Pop
+631,Chanson
+632,Christian Pop
+633,Classical Crossover
+634,Europop
+635,Austropop
+636,Balkan Pop
+637,French Pop
+638,Latin Pop
+639,Laïkó
+640,Nederpop
+641,Russian Pop
+642,Dance Pop
+643,Dream Pop
+644,Electro Pop
+645,Iranian Pop
+646,Jangle Pop
+647,Latin Ballad
+648,Levenslied
+649,Louisiana Swamp Pop
+650,Mexican Pop
+651,Motorpop
+652,New Romanticism
+653,Orchestral Pop
+654,Pop Rap
+655,Popera
+656,Pop/Rock
+657,Pop Punk
+658,Power Pop
+659,Psychedelic Pop
+660,Schlager
+661,Soft Rock
+662,Sophisti-Pop
+663,Space Age Pop
+664,Sunshine Pop
+665,Surf Pop
+666,Synthpop
+667,Teen Pop
+668,Traditional Pop Music
+669,Turkish Pop
+670,Vispop
+671,Wonky Pop
+672,Post-Disco
+673,Boogie
+674,Dance-pop
+675,Progressive
+676,Progressive House / Trance
+677,Disco House
+678,Dream House
+679,Space House
+680,Japanese House
+681,Bounce / Scouse House
+682,Progressive Breaks
+683,Progressive Drum & Bass
+684,Progressive Techno
+685,R&B/Soul
+686,(Carolina) Beach Music
+687,Contemporary R&B
+688,Disco
+689,Doo Wop
+690,Funk
+691,Modern Soul
+692,Motown
+693,Neo-Soul
+694,Northern Soul
+695,Psychedelic Soul
+696,Quiet Storm
+697,Soul
+698,Soul Blues
+699,Southern Soul
+700,Reggae
+701,2-Tone
+702,Dub
+703,Roots Reggae
+704,Reggae Fusion
+705,Reggae en Español
+706,Spanish Reggae
+707,Reggae 110
+708,Reggae Bultrón
+709,Romantic Flow
+710,Lovers Rock
+711,Raggamuffin
+712,Ragga
+713,Dancehall
+714,Ska
+715,2 Tone
+716,Dub
+717,Rocksteady
+718,Reggae Dancehall
+719,Rock
+720,Acid Rock
+721,Adult-Oriented Rock
+722,Afro Punk
+723,Adult Alternative
+724,Alternative Rock
+725,American Traditional Rock
+726,Anatolian Rock
+727,Arena Rock
+728,Art Rock
+729,Blues-Rock
+730,British Invasion
+731,Cock Rock
+732,Death Metal / Black Metal
+733,Doom Metal
+734,Glam Rock
+735,Gothic Metal
+736,Grind Core
+737,Hair Metal
+738,Hard Rock
+739,Math Metal
+740,Math Rock
+741,Desi Hip hop
+742,Metal
+743,Metal Core
+744,Noise Rock (genre – Japanoise)
+745,Jam Bands
+746,Post Punk
+747,Post Rock
+748,Prog-Rock/Art Rock
+749,Progressive Metal
+750,Psychedelic
+751,Rock & Roll
+752,Rockabilly
+753,Roots Rock
+754,Singer/Songwriter
+755,Southern Rock
+756,Spazzcore
+757,Stoner Metal (duuuude)
+758,Surf
+759,Technical Death Metal
+760,Tex-Mex
+761,Thrash Metal
+762,Time Lord Rock (Trock)
+763,Trip-hop
+764,Yacht Rock (soft rock)
+765,Singer/Songwriter
+766,Alternative Folk
+767,Contemporary Folk
+768,Contemporary Singer/Songwriter
+769,Indie Folk
+770,Folk-Rock
+771,Love Song (Chanson)
+772,New Acoustic
+773,Traditional Folk
+774,Soundtrack
+775,Foreign Cinema
+776,Movie Soundtrack
+777,Musicals
+778,Original Score
+779,Soundtrack
+780,TV Soundtrack
+781,Spoken Word
+782,Tex-Mex / Tejano
+783,Chicano
+784,Classic
+785,Conjunto
+786,Conjunto Progressive
+787,New Mex
+788,Tex-Mex
+789,Vocal
+790,A cappella
+791,Barbershop
+792,Cantique (sacred vocal)
+793,Doo-wop
+794,Gregorian Chant
+795,Standards
+796,Traditional Pop
+797,Vocal Jazz
+798,Vocal Pop
+799,Yodel
+800,World
+801,Africa
+802,African Heavy Metal
+803,African Hip Hop
+804,Afro-Beat
+805,Afro-House
+806,Afro-Pop
+807,Apala (or akpala)
+808,Benga
+809,Bikutsi
+810,Bongo Flava
+811,Cape Jazz
+812,Chimurenga
+813,Coupé-Décalé
+814,Fuji Music
+815,Genge
+816,Gnawa (hypnotic trance)
+817,Highlife
+818,Hiplife
+819,Isicathamiya
+820,Jit
+821,Jùjú
+822,Kapuka
+823,Kizomba
+824,Kuduro
+825,Kwaito
+826,Kwela
+827,Lingala (Rumba Lingala / Congolese Rumba)
+828,Makossa
+829,Maloya
+830,Marrabenta
+831,Mbalax
+832,Mbaqanga
+833,Mbube
+834,Morna
+835,Museve
+836,Negro Spiritual
+837,Palm-Wine
+838,Raï
+839,Sakara
+840,Sega
+841,Seggae
+842,Semba
+843,Soukous
+844,Taarab
+845,Zouglou
+846,Asia
+847,Anison
+848,Baithak Gana
+849,C-Pop
+850,CityPop
+851,Cantopop
+852,Enka
+853,Hong Kong English Pop
+854,Fann At-Tanbura
+855,Fijiri
+856,J-Pop
+857,Japanese Pop
+858,K-Pop
+859,Khaliji
+860,Kayōkyoku
+861,Korean Pop
+862,Liwa
+863,Mandopop
+864,Onkyokei
+865,Taiwanese Pop
+866,Sawt
+867,Australia
+868,Cajun
+869,Calypso
+870,Caribbean
+871,Chutney
+872,Chutney Soca
+873,Compas
+874,Mambo
+875,Merengue
+876,Méringue
+877,Carnatic (Karnataka Sanghetha)
+878,Celtic
+879,Celtic Folk
+880,Contemporary Celtic
+881,Coupé-décalé – Congo
+882,Dangdut
+883,Drinking Songs
+884,Drone
+885,Europe
+886,"Europe – Greece: Laiko, Entechno, Rebetika"
+887,France
+888,Hawaii
+889,Japan
+890,Klezmer
+891,Mbalax – Senegal
+892,Middle East
+893,North America
+894,Ode
+895,Piphat – Thailand
+896,Polka
+897,Soca
+898,South Africa
+899,South America
+900,South / Southeast Asia
+901,Baila
+902,Bhangra
+903,Bhojpuri
+904,Dangdut
+905,Filmi
+906,Indian Pop
+907,Hindustani
+908,Indian Ghazal
+909,Lavani
+910,Luk Thung
+911,Luk Krung
+912,Manila Sound
+913,Morlam
+914,Pinoy Pop
+915,Pop Sunda
+916,Ragini
+917,Thai Pop
+918,Traditional Celtic
+919,Worldbeat
+920,Zydeco
+921,EDM
+922,Bollywood
+923,Bollywood-hiphop

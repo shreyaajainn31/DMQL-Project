@@ -1,0 +1,497 @@
+artistID,artistName
+1,Yeah Yeah Yeahs
+2,Wire
+3,Talking Heads
+4,Television
+5,Pere Ubu
+6,Jaguar Love
+7,The Blood Brothers
+8,The Fall
+9,Agitpop
+10,Gang of Four
+11,Richard Hell & The Voidoids
+12,Talking Head
+13,The Stranglers
+14,XTC
+15,Devo
+16,Parquet Courts
+17,Ted Leo and the Pharmacists
+18,Cardiacs
+19,Badshah
+20,MC Fioti
+21,Jasleen Royal
+22,Pritam
+23,Sachin-Jigar
+24,Pawni Pandey
+25,Bappi Lahiri
+26,Anuradha Paudwal
+27,Neha Kakkar
+28,Yo Yo Honey Singh
+29,Vishal-Shekhar
+30,Ajay-Atul
+31,Zack Knight
+32,Divya Kumar
+33,Shefali Alvares
+34,Kam Dhillon
+35,Amar Arshi
+36,Shreya Ghoshal
+37,Aditya Narayan
+38,Dj Vix
+39,Malkit Singh
+40,Nucleya
+41,Benny Dayal
+42,Vishal Dadlani
+43,Shalmali Kholgade
+44,A.R. Rahman
+45,K. S. Chithra
+46,Daler Mehndi
+47,Shankar Mahadevan
+48,Sunidhi Chauhan
+49,Vishal Dadlani
+50,Imran Khan
+51,Mika Singh
+52,Palak Muchhal
+53,Arijit Singh
+54,Jaideep Sahni
+55,Salim–Sulaiman
+56,Kanika Kapoor
+57,Siddharth Mahadevan
+58,Nakash Aziz
+59,Neeraj Shridhar
+60,Kavita Seth
+61,Aastha Gill
+62,Shaarib Toshi
+63,Indeep Bakshi
+64,Akriti Kakkar
+65,Pritam
+66,Amit Mishra
+67,Anushka Manchanda
+68,Antara Mitra
+69,Tony Kakkar
+70,Young Desi
+71,Tanishk Bagchi
+72,Lijo George
+73,Darshan Raval
+74,Dj Chetas
+75,Shahid Mallya
+76,Amit Trivedi
+77,Tochi Raina
+78,Shankar-Ehsaan-Loy Loy Mendonsa
+79,Sukhwinder Singh
+80,Shankar Mahadevan
+81,Sandeep Chowta
+82,Sonu Kakkar
+83,Sandesh Shandilya
+84,Sonu Nigam
+85,Alka Yagnik
+86,Himesh Reshammiya
+87,Sajid-Wajid
+88,Mamta Sharma
+89,Sarosh Sami
+90,Manj Musik
+91,Nindy Kaur
+92,Diljit Dosanjh
+93,Aastha Gill
+94,Nakash Aziz
+95, Gajendra Verma
+96,Atif Aslam
+97,Ayushmann Khurrana
+98,Meet Bros Anjjan
+99,Anand Shinde
+100,Vaishali Samant
+101,Sachin Sanghvi
+102,Jigar Saraiya
+103,Varun Dhawan
+104,D Soldierz
+105,Mika Singh
+106,Sachin-Jigar
+107,Anand Tiwari
+108,Kunal Khemu
+109,Raj Nidimoru
+110,Krishna DK
+111,Bornalee Deuri
+112,Salim–Sulaiman
+113,Mamta Sharma
+114,Wajid
+115,The Doorbeen
+116,Ragini
+117,Harrdy Sandhu
+118,Guru Randhawa
+119,Aman Trikha
+120,Vineet Singh
+121,Pav Dharia
+122,Sunanda Sharma
+123,Mankirt Aulakh
+124,DJ Flow
+125,Akhtar Chinnal
+126,J Star
+127,Jyoti Noora
+128,Anirudh Ravichander
+129,Dhanush
+130,Aishwarya
+131,Dev Negi
+132,Rap by Pravesh Mallick
+133,Shraddha Pandit
+134,Pawni Pandey
+135,Ritviz
+136,Navraj Hans
+137,Harshdeep Kaur
+138,Rochak Kohli
+139,Mano
+140,Swarnalatha
+141,Rashmeet Kaur
+142,Avneet Khurmi
+143,Beyonce
+144,Rihanna
+145,Taylor Swift
+146,Britney Spears
+147,Adele
+148,Katy perry
+149,Amy winehouse
+150,The Weeknd
+151,Robyn
+152,Outkast
+153,Shakira
+154,Justin Timberlake
+155,Carly Rae Jepsen
+156,Bruno Mars
+157,Lady Gaga
+158,Gwen Stefani
+159,Nicki Minaj
+160,Lorde
+161,Miley Cyrus
+162,Billie Eilish
+163,Lizzo
+164,Daft Punk
+165,BTS
+166,Harry Styles
+167,Ariana Grande
+168,Olivia Rodrigo
+169,Justin Beiber
+170,Davia Guetta
+171,Pharell Williams
+172,Drake
+173,Dua Lipa
+174,Kelis
+175,Luis Fenso
+176,Destiny's Child
+177,Missy Elliott
+178,Kanye West
+179,Kelly Clarkson
+180,Eve
+181,Psy
+182,Gnarls Barkley
+183,Aretha Franklin
+184,Chuck Berry
+185,Led Zeppelin
+186,The Kingsmen
+187,Marvin Gaye
+188,Rolling Stones
+189,Elvis Presley
+190,Bill Haley & His Comets
+191,Michael Jackson
+192,Bob Dylan
+193,Beatles
+194,Beach Boys
+195,Little Richard
+196,Ray Charles
+197,Eagles
+198,Righteous Brothers
+199,Temptations
+200,John Lennon
+201,Nirvana
+202,Bruce Springsteen
+203,Doors
+204,Stevie Wonder
+205,Derek and the Dominos
+206, Queen
+207,Eddie Cochran
+208,Kinks
+209,Simon and Garfunkel
+210,Al Green
+211,Jimi Hendrix Experience
+212,Jerry Lee Lewis
+213,Buddy Holly & the Crickets
+214,Police
+215,Bo Diddley
+216,James Brown
+217,Prince
+218,The Who
+219,R.E.M.
+220,Cream
+221,U2
+222,Sam Cooke
+223,Grandmaster and the furious fic
+224,Wilson Pickett
+225, Bob Dylan
+226,Creedence Clearwater Revival
+227,Joe Turner
+228,Aerosmith
+229,Rod Stewart
+230,Don McLean
+231,Otis Redding
+232,Carl Perkins
+233,Bee Gees
+234,Lynyrd Skynyrd
+235,Dr. Dre & Snoop Dogg
+236,Rolling Stones
+237,Percy Sledge
+238,Wynonie Harris
+239,Ben E. King
+240,Gloria Gaynor
+241,Rick James
+242,Procol Harum
+243,Ronettes
+244,Fleetwood Mac
+245,Animals
+246,Supremes
+247,Sugarhill Gang
+248,Jackson 5
+249,Joan Jett & The Blackhearts
+250,Human League
+251,Pearl Jam
+252,Madonna
+253,Guns N' Roses
+254,Red Hot Chili Peppers
+255,Elton John
+256,AC/DC
+257,Simon & Garfunkel
+258,Journey
+259,Sam & Dave
+260,Jefferson Airplane
+261,Everly Brothers
+262,Penguins
+263,Gnarls Barkley
+264,Gladys Knight and the Pips
+265,Frankie Lymon & the Teenagers
+266,Miles Davis
+267,John Coltrane
+268,Dave Brubeck
+269,Weather Report
+270,Billie Holiday
+271,Dizzy Gillespie
+272,Cannonball Adderley
+273,Charles Mingus
+274,Herbie Hancock
+275,Freddie Hubbard
+276,Pharoah Sanders
+277,Count Basie
+278,Wes Montgomery
+279,Jimmy Smith
+280,Grover Washington
+281,Nicki Minaj
+282,Denzel Curry
+283,Latto
+284,DaBaby
+285,42 Dugg & EST GEE
+286,Dave
+287,Marr Grey
+288,snow
+289,Sage The Gemini f
+290,Flo Rida
+291,Saweetie feat. H.E.R.
+292,Macklemore
+293,50 Cent
+294,The Sugar Hill Gang
+295,Fatback Band
+296,Funky Four Plus One
+297,Kurtis Blow
+298,Grandmaster Flash & The Furious Five
+299,Lady B
+300,"Younger Generation (a.k.a. Grandmaster Flash, et al)"
+301,Jocko
+302,Paulette and Tanya Winley
+303,Joe Bataan
+304,Lady D
+305,MC Rock
+306,Sickle Cell and Rhapazooty
+307,Ron Hunt
+308,Eddie Cheba
+309,B.B. King
+310,Robert Johnson
+311,Buddy Guy
+312,Etta James
+313,Freddie King
+314,T-Bone Walker
+315,John Lee Hooker
+316,Howlin’ Wolf
+317,Bessie Smith
+318,Derek and the Dominoes
+319,Gary Moore
+320,Wilson Pickett
+321,Big Mama Thornton
+322,Albert King
+323,John Mayall & The Bluesbreakers
+324,Elmore James
+325,Eric Clapton
+326,Willie Dixon
+327,The Rolling Stones
+328,Muddy Waters
+329,Guitar Shorty
+330,Guitar Slim
+331,Stevie Ray Vaughan
+332,"Gary Clark, Jr"
+333,Jonny Lang
+334,Peter Green
+335,Bonnie Raitt
+336,Booker T. & The MG’s
+337,Leadbelly
+338,Rory Gallagher
+339,Joe Bonamassa
+340,Bobby “Blue” Bland
+341,Allman Brothers Band
+342,George Thorogood
+343,Sonny Boy Williamson II
+344,Susan Tedeschi
+345,Pinetop Perkins
+346,Big Walter Hornton
+347,Albert Collins
+348,Ike and Tina Turner
+349,Kenny Wayne Shepherd
+350,Cab Caloway
+351,Cab Caloway
+352,Solomon Burke
+353,Cashman
+354,Little Walter
+355,Jimmy Rogers
+356,James Brown and the Famous Flames
+357,Taj Mahal
+358,Otis Rush
+359,Hound Dog Taylor
+360,Sonny Terry
+361,Ike Turner
+362,ZZ Top
+363,Dave Hole
+364,Little Milton
+365,Paul Butterfield Band
+366,Chris James and Patrick Ryan
+367,Tommy Castro and the Painkillers
+368,Lowell Fulson
+369,Lil’ Ed & The Blues Imperials
+370,Jimmy Reed
+371,Ben Harper
+372,Charlie Musselwhite
+373,Luther Allison
+374,Koko Taylor
+375,Johnny Copeland
+376,Jimmie Vaughn
+377,Mr. C The Slide Man
+378,Black Eyed Peas
+379,V.I.C.
+380,Usher
+381,Flo Rida Featuring T-Pain
+382,Jason Mraz
+383,LMFAO Feat. Lil Jon
+384,Lil’ Jon 
+385,Michael Buble
+386,Chris Brown
+387,Big & Rich
+388,Rascal Flatts
+389,Ke$ha
+390,Jack Johnson
+391,Norah Jones
+392,Nelly
+393,Brad Paisley
+394,Train
+395,Kid Rock
+396,Zac Brown Band
+397,Heartland
+398,Lifehouse
+399,Pink
+400,Pitbull
+401,Jay Sean Featuring Lil Wayne
+402,N Sync
+403,Jay-Z Featuring Alicia Keys
+404,Michael Franti & Spearhead
+405,Keith Urban
+406,Soulja Boy
+407,Cascada
+408,Ray Lamontagne
+409,Lady Antebellum
+410,Old Crow Medicine Show
+411,Israel Kamakawiwo’ole “Iz”
+412,Tim McGraw
+413,Lady Gaga Feat. Beyonce
+414,Timbaland
+415,Sean Kingston
+416,Dave Matthews Band
+417,T.I.
+418,Counting Crows
+419,Rihanna Feat. Jay-Z
+420,Lee Ann Womack
+421,Jamie Foxx Feat. T-Pain
+422,Elvis Crespo
+423,Fergie
+424,R. Kelly
+425,Plain White T’s
+426,Adam Sandler
+427,Ester Dean Featuring Chris Brown
+428,Trey Songz Feat. Fabolous
+429,Alan Jackson & Jimmy Buffett
+430,Coldplay
+431,Boys Like Girls Feat. Taylor Swift
+432,M.I.A.
+433,Jason Aldean
+434,Metro Station
+435,Ciara Feat. Missy Elliott
+436,Neil Young
+437,Kansas
+438,CCR
+439,James Taylor
+10001,Nick Drake
+10002,Oasis
+440,John Mayer
+441,Ed Sheeran
+442,Eric Clapton
+443,Blind Melon
+444,The Eagles
+445,Led Zeppelin
+446,America
+447,Extreme
+448,Crosby
+449,Stills
+450,Nash
+451,Jim Croce
+452,Green Day
+453,Don McLean
+454, Stealers Wheel
+455,Bob Marley
+456,The Black Keys
+457,Guns N’ Roses
+458,Bill Withers
+459,Keller Williams
+460,Tracy Chapman
+461,Joni Mitchell
+462,Iron & Wine
+463,The Mamas & The Papas
+464,Alice in Chains
+465,The Marshall Tucker Band
+466,Yes
+467,John Denver
+468,The Doobie Brothers
+469,Bread
+470,Cat Stevens
+471,Radiohead
+472,Pink Floyd
+473,Gordon Lightfoot
+474,Paul Simon
+475,Steve Miller Band
+476,Bob Segar
+477,Van Morrison
+478,Deep Blue Something
+479,Barenaked Ladies
+480,Third Eye Blind
+481,Sufjan Stevens
+482,The White Stripes
+483,Dolly Parton
+484,The Allman Brothers Band
+485,Stevie Ray Vaughn
+486,The Black Crowes
+487,Incubus
+488,Bon Jovi
+489,Carly Simon
+490,The Band
+491,Supertramp
+492,The Kinks
+493,John Butler
+494,Foo Fighters
