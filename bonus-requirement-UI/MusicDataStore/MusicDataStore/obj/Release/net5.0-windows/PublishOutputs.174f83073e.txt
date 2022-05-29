@@ -1,7 +1,0 @@
-C:\Users\mital\source\repos\MusicDataStore\MusicDataStore\bin\publish\MusicDataStore.exe
-C:\Users\mital\source\repos\MusicDataStore\MusicDataStore\bin\publish\MusicDataStore.dll
-C:\Users\mital\source\repos\MusicDataStore\MusicDataStore\bin\publish\MusicDataStore.deps.json
-C:\Users\mital\source\repos\MusicDataStore\MusicDataStore\bin\publish\MusicDataStore.runtimeconfig.json
-C:\Users\mital\source\repos\MusicDataStore\MusicDataStore\bin\publish\MusicDataStore.pdb
-C:\Users\mital\source\repos\MusicDataStore\MusicDataStore\bin\publish\Npgsql.dll
-C:\Users\mital\source\repos\MusicDataStore\MusicDataStore\bin\publish\System.Runtime.CompilerServices.Unsafe.dll
