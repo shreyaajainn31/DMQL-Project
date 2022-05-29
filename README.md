@@ -58,18 +58,3 @@ select * from music;
 select * from rating;
 
 select * from survey;
-
---------------------------------------------------------------------------------------------
-RUNNING THE UI (Bonus requirement)
---------------------------------------------------------------------------------------------
---------------------------------------------------------------------------------------------
-Steps to follow:
-1. Clone the project from /bonus-requirement-UI/MusicDataStore/
-2. Open the project in Visual studio and change the connection string to your local db setup 
-3. Build the solution
-4. Run the solution
-
-For executing the queries on UI:
-1. Enter the query in the textbox
-2. Click on "Execute Query" button
-3. Click on "Clear" button to clear the entered text in the textbox.
